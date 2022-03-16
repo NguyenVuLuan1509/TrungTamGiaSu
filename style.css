@@ -1,0 +1,86 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.logo{
+    margin-top: 5px;
+    width: 100%;
+}
+
+.menu-web{
+    margin-bottom: 10px;
+}
+
+a.list-menu:hover{
+    color: white ;
+    background-color: #00CC00;
+}
+
+.navbar-nav li a{
+    color: white;
+    font-size: 20px;
+}
+
+.find{
+   margin-right: 20px;
+}
+
+.dangky-moi .row{
+    margin-bottom: 5px;
+}
+
+.dk-hoc{
+    width: 160px;
+    height: 90px
+}
+
+.sidebar-danhmuc{
+    background-color: #006633;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    /* margin-top: 10px; */
+}
+
+.service{
+    list-style: none;
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    /* text-align: center; */
+}
+
+.service:hover .li{
+    color: red;
+}
+
+.title{
+    color: #006633;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.logo-main{
+    margin-top: 0px;
+    width: 100%;
+
+}
+
+.dangnhap-form{
+    border:1px solid #006633;
+}
+
+.nut{
+    color: red;
+    font-weight: bold;
+}
+
+.nut:hover {
+    background-color: #006633;
+    color: red;
+    font-weight: bold;
+}
+
